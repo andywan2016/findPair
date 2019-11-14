@@ -36,8 +36,8 @@ A runnable jar file is also provided, users can use following command line:<br>
 $ $JAVA_HOME/java -jar find-pair.jar prices.txt 9000
 ```
 ## Analysis
-The time complexity for this project is 
-$n$
+The time complexity for this project is **n**,as the prices are sorted. 
+
 
 
 
